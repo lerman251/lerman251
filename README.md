@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Leeman Thompson</h1>
 <h3 align="center">A passionate frontend developer from The US</h3>
-
+<p>Leeman Thompson is a graduated adult from Oak Ridge R-VI and a year 2 student at Cape Girardeau Career and Technical School, Missouri. I know front-end development and i am learning game design. I'm pursuinga career in the coding and programming world in which a plan on becoming at least a full stack developer.</p>
 
 - 🔭 I’m currently working on **The Sauce Boss**
 
