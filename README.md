@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leeman Thompson</h1>
 <h3 align="center">A passionate frontend developer from The US</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lerman251&label=Profile%20views&color=0e75b6&style=flat" alt="lerman251" /> </p>
-
-
 
 - 🔭 I’m currently working on **The Sauce Boss**
 
