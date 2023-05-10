@@ -1,3 +1,10 @@
+
+![LEEMAN THOMPSON](https://github.com/lerman251/lerman251/assets/63618979/a89a39b2-b53e-4c9e-b2b7-a5fb7579a6c4)
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Leeman Thompson</h1>
 <h3 align="center">A passionate frontend developer from The US</h3>
 
