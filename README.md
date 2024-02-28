@@ -17,10 +17,11 @@
 </p>
 
 ## Languages and Tools:
-<p align="left">
+* 🅰️ Angular
+* 🎮 C# / Unity
+* 💻 HTML, CSS, JS
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lerman251&show_icons=true&locale=en&layout=compact" alt="lerman251" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lerman251&show_icons=true&locale=en" alt="lerman251" />
 </p>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lerman251&show_icons=true&locale=en&layout=compact" alt="lerman251" />
-      <img src="https://github-readme-stats.vercel.app/api?username=lerman251&show_icons=true&locale=en" alt="lerman251" />
-    </p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=lerman251&" alt="lerman251" /></p>
